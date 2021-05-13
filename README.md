@@ -1,7 +1,7 @@
 # WowLabZ
 ### Python and Machine Learning
 ##### Python
-four data types - list, tuple, dictionary, set
+four data types - list, tuple, dictionary, set <br>
 conditional loops :for loops, if loops, where loops
 oops: classes
 iteratoirs 
